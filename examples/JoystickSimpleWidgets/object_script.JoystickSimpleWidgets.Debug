@@ -1,0 +1,14 @@
+INPUT(
+./debug\sdldevices.o
+./debug\keyboard.o
+./debug\joysticksdevices.o
+./debug\JoysticksGui.o
+./debug\main.o
+./debug\mainwindow.o
+./debug\qrc_MyJoysticks.o
+./debug\moc_sdldevices.o
+./debug\moc_keyboard.o
+./debug\moc_joysticksdevices.o
+./debug\moc_JoysticksGui.o
+./debug\moc_mainwindow.o
+);
